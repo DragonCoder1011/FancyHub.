@@ -1,0 +1,5 @@
+permissions:
+  f.admincommands.admin:
+    default: op
+  f.chat.admin:
+    default: op

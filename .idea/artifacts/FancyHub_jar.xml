@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FancyHub:jar">
+    <output-path>$USER_HOME$/Desktop/Plugin Testing/plugins</output-path>
+    <root id="archive" name="FancyHub.jar">
+      <element id="module-output" name="FancyHub" />
+    </root>
+  </artifact>
+</component>

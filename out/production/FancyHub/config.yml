@@ -1,0 +1,98 @@
+
+#Database Settings
+host: "localhost"
+port: 3306
+database: "fancyhub"
+username: "host11"
+password: "password"
+#Join Settings
+JoinMessage: "&cWelcome %playername% to &6&lMinecraft"
+JoinMessageOn: true
+CollectiblesEnable: true
+CollectiblesItemSlot: 4
+CollectiblesItemType: "EMERALD"
+#ChatSettings:
+ChatSpamTimer: 3
+ChatToggle: true
+BlackListedWords:
+  - hello
+#Particles
+Hearts:
+  Cost: 1500
+Magic:
+  Cost: 1500
+Cloud:
+  Cost: 1500
+Ender:
+  Cost: 2500
+Spark:
+  Cost: 2500
+Flame:
+  Cost: 2500
+Snow:
+  Cost: 2500
+Water:
+  Cost: 3500
+Smoke:
+  Cost: 4000
+Slime:
+  Cost: 4000
+Enchanted:
+  Cost: 5000
+Music:
+  Cost: 5000
+Emerald:
+  Cost: 6000
+Rainbow:
+  Cost: 7000
+#Gadgets
+GadgetSlot: 5
+FunGun:
+  Cost: 250
+ExplosiveBow:
+  Cost: 500
+NecromancerWand:
+  Cost: 500
+FreezeRay:
+  Cost: 1000
+FlyingPig:
+  Cost: 1250
+RailGun:
+  Cost: 1500
+FireballStick:
+  Cost: 2000
+CannonBlaster:
+  Cost: 2000
+PigZooka:
+  Cost: 2500
+MelonLauncher:
+  Cost: 2500
+AlmightyEnchanter:
+  Cost: 2750
+Confetti:
+  Cost: 2750
+LightningStick:
+  Cost: 3000
+ThrowableTNT:
+  Cost: 3000
+#Hats
+Notch:
+  Cost: 500
+Herobrine:
+  Cost: 1000
+Jeb:
+  Cost: 1000
+Dinnerbone:
+  Cost: 1500
+MD_5:
+  Cost: 2000
+EnderDragon:
+  Cost: 2500
+Wither:
+  Cost: 2500
+Thor:
+  Cost: 2750
+IronMan:
+  Cost: 3250
+BatMan:
+  Cost: 3500
